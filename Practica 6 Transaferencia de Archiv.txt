@@ -1,0 +1,13 @@
+Practica 6: Transaferencia de Archivos entre Clientes Linux y Windows
+
+
+Captura 1-6
+Crear un directorio con determinados archivos y transferirlos entre un cliente windows a un servidor de tipo linux.
+
+Captura 2-6
+Atraves del comando SCP transferrir 3 archivos de tipo pdf deun cliente linux a un servidor en el directorio Servidor
+
+Captura 3-6
+Y de un servidor transferir 3 directorios a la maquina cliente de linux al directorio Cliente
+
+Tiempo: 20 

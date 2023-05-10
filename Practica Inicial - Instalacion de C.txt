@@ -1,0 +1,11 @@
+Practica Inicial - Instalacion de CENTOS 8 STREAM(Si no funciona probar con Oracle Linux)
+
+Realizar la instalacion minima de la version o dirstribucion de Centos 8 Stream.
+
+VmWare
+Virtual Box
+
+
+Omitr la cuenta de registro de RHEL.
+
+Tiempo: 25 minutos

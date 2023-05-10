@@ -1,0 +1,32 @@
+Practica 4 - Nombre
+Tar - gzip
+home/admin
+Directorios que generaron del sistema de archivos
+
+Captura 1-4
+Empaquetar los directorios de musica, video  e imagenes.
+
+Captura 2-4
+Comprimir esos archivos  y extraerlos sobre la carpeta de escritorio.
+
+Opcional.
+*Realizar un borrado de los directorios y regresar los 3 a su estado original con tar y con gzip.
+
+
+Practica 5 - Nombre
+Captura 1-5
+Ejecucion de tarea cada minuto
+
+Programar una tarea en espcifico con Cron (Usuario Programando con exito, Finalizando tarea con exito, Terminando Practica 5 con exito)
+Realizar la programacion de la tarea en el modo basico > resultado_tarea.txt
+
+
+Captura 2-5
+Ejecucion de tarea todos los dias a las 5pm
+Realizar la programacion de la tarea en el modo avanzdo. (Usuario regresando a labores de desarrollo) + Script. >> resultado_tarea.txt
+
+***** ./script1.sh
+
+
+Tiempo:-----
+

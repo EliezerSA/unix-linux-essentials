@@ -1,0 +1,11 @@
+Practica 7: Usuarios
+
+Agregar tres usuarios distintos(Luis, Miguel. Jose) modo normal
+
+Agregar agregar para un usuario el permiso para poder acceder a su espacio de trabajo y redireccionar una salida de texto a un archivo contenido de ese usuario
+
+Agregar los 3 usuarios como administradores.
+
+Tiempo: 15 minutos.
+
+

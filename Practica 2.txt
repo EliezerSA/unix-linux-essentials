@@ -1,0 +1,38 @@
+Practica 2
+             Desarrollar un sistema gestor de archivos
+
+.Escritorio
+.Documentos
+.Imagenes
+.Musica.
+.Videos.
+.Backups
+
+1ra captura
+Anexar al menos 5 archivos en cada directorio de acuerdo a los apartados.
+Por cada archivo incluir al menos 3 propiedades.
+
+2 captura
+Realizar copia de seguridad en la carpeta Backups de todos los directorios con sus archivos.
+
+
+3 captura o una captura adcional
+Extension de practica
+Con el comando rm eliminar u directorio y 2 archivos de 2 directorios.
+
+4 captura 
+Realizar el conteo de los directorio musica y video y de sus archivos.
+
+5 captura 
+Con las instrucciones de redireccion, rediregir la salida de 2 archivos de video a un archivo salida.avi
+
+6 captura
+Con la redireccion doble modificar agregando 3 propiedades a los archivos de imagenes.
+
+7 captura
+Enalzar histrorial de sus comandos  mediante tuberias  a un archivo comandosPractica2.txt : home/admin
+
+Tiempo: 40 minutos
+
+clip1.mp4 >> salida.avi
+clip2.mp4 >> salida.avi
